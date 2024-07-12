@@ -1,0 +1,22 @@
+word_list = [
+    "elma",
+    "bilgisayar",
+    "programlama",
+    "mühendis",
+    "universite",
+    "kitap",
+    "kalem",
+    "defter",
+    "klavye",
+    "monitor",
+    "fare",
+    "sandalye",
+    "masa",
+    "yazılım",
+    "donanım",
+    "telefon",
+    "internet",
+    "proje",
+    "dil",
+    "teknoloji"
+]
