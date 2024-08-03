@@ -1,0 +1,41 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    background-color: cadetblue;
+  }
+  
+  .blocks {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    width: 450px;
+    height: 450px;
+    gap: 5px;
+    background-color: #ffc107;
+    margin: 10px;
+  }
+  
+  .blocks button {
+    width: 100%;
+    height: 100%;
+    font-size: 40px;
+    background-color: cadetblue;
+    color: #ffc107;
+    border: none;
+  }
+  
